@@ -1,1 +1,1 @@
-The command used to get all the main branch locally is 'git checkout main'
+The command used to get all the changes of the main branch locally is 'git checkout'
