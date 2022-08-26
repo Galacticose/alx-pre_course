@@ -1,1 +1,3 @@
-The command line used to get all the changes in the main branch is 'git checkout main'
+The command line used to get all the changes in the main branch 
+
+cmd: git pull origin main
